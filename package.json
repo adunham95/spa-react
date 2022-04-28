@@ -1,7 +1,11 @@
 {
-  "name": "story-writer",
-  "private": true,
-  "version": "0.0.0",
+  "name": "spa-react-boilerplace",
+  "version": "1.0.0",
+  "author": "Adrian Dunham <adunham95@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
